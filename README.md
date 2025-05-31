@@ -54,6 +54,8 @@ pip install -r requirements.txt
 # Run the Streamlit application
 streamlit run app/hypertension_app.py
 
+App link ! -->  https://hypertensionriskprediction-8fn7uzqs9ucy3urb953t3l.streamlit.app/
+
 
 ---
 
