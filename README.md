@@ -111,6 +111,6 @@ All dependencies are listed in `requirements.txt`, including:
 
 👤 Author ?
 
-Built with ❤️ by \[Samuel Ragland]
+Built with ❤️ by Samuel Ragland
 
 THANKS!
